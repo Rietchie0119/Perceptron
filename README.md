@@ -3,13 +3,14 @@
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/883fc4b8-c1e5-400b-a523-edabb9322564)
 - Implementation of Perceptron with sigmoid function without using Keras.
 
-
-
+  
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/d3e706e8-b58c-41d2-9326-02bdbcc6de6b)
-- Implementation of Perceptron using Keras. Check Perceptron_with_keras.ipynb for details.  
+- Implementation of Perceptron using Keras. Check Perceptron_with_keras.ipynb for details.
+  
 
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/7bfea5ad-0fd6-4d82-806e-945c8ff1e900)
-- A deep neural netwok that aggregates 4 linear classification to classify a complex dataset. Check Deep_Neural_Network.ipynb for details.  
+- A deep neural netwok that aggregates 4 linear classification to classify a complex dataset. Check Deep_Neural_Network.ipynb for details.
+- 
 
 ## Multiclass Neural Network
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/7053a7a7-fe63-4459-8244-d77f7fbf1f73)
