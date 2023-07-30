@@ -14,7 +14,8 @@
 
 ## Multiclass Neural Network
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/7053a7a7-fe63-4459-8244-d77f7fbf1f73)
-- Implementation of Multiclass neural network of 5 classes. Check Multiclass_neural_network.ipynb for details.<br/>
+- Implementation of Multiclass neural network of 5 classes. Check Multiclass_neural_network.ipynb for details.
+<br/>
 
 ## Polynomial Regression
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/3d213d7e-9ef7-40f4-b43e-8ba611da06c4)
