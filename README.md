@@ -3,6 +3,7 @@
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/883fc4b8-c1e5-400b-a523-edabb9322564)
 - Implementation of Perceptron with sigmoid function without using Keras.
 
+
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/d3e706e8-b58c-41d2-9326-02bdbcc6de6b)
 - Implementation of Perceptron using Keras. Check Perceptron_with_keras.ipynb for details.
 
